@@ -13,19 +13,19 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('HADES-BOT-MD\nOFC-YOVANI\n WHATSAPP-BOT', {
+say('BOT-WHATSAPP\n𝗠𝗮𝗻𝘂𝗲𝗹 𝗡. 𝗬𝘂𝗰𝗿𝗮\n WHATSAPP-BOT', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.19.0
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
-[•]-GRACIAS POR USAR LE BOT DE HADES 
-[•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-Owner : MANUEL N. YUCRA
+[•]-GRACIAS POR USAR EL BOT
+[•]-SIGUENOS EN NUESTRAA REDES SOCIALES
+[•]-CERRADO EL BOT
 |< ================================================== >|`, {
 font: 'console',
 align: 'center',
