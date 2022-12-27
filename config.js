@@ -4,15 +4,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5492266466080'], //colaborador
+  ['15067034604', '𝗠𝗮𝗻𝘂𝗲𝗹 𝗡. 𝗬𝘂𝗰𝗿𝗮', true],
+  ['51987230402', '𝗠𝗮𝗻𝘂𝗲𝗹 𝗡. 𝗬𝘂𝗰𝗿𝗮', true],
+  ['51940901488', '𝗠𝗮𝗻𝘂𝗲𝗹 𝗡. 𝗬𝘂𝗰𝗿𝗮', true],
+  [''], //colaborador
 ]
-global.suittag =['5212411719888']
+global.suittag =['15067034604']
 global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
+global.prems = ['51987230402'], 
+global.prems = ['51940901488'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -72,19 +72,19 @@ global.version = vs
 global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
 global.hadesbot = gt
 
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'https://youtu.be/V7NVb8sWa_I'
 global.youtube = yt
 
 global.ig = 'https://www.instagram'
 global.hadesig = ig
 
-global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git'
+global.md = 'https://github.com/'
 global.botxdf = md
 
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = 'https://chat.whatsapp.com/GD59AEmAEI'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/GD59AEmAEI'
 global.nnngrupo = nnn
 
 global.paypal = 'https://pay'
